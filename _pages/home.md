@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /
+permalink: /home/
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
