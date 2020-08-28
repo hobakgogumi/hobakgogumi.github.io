@@ -297,7 +297,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
   # _tool
   - scope:
