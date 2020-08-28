@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kimmi the HobakGogumi"
+  name             : "HobakGogumi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jolly *Engineer* in Germany"
+  bio              : "Jolly Engineer in Germany"
   location         : "Germany"
   email            : ""
   links:
