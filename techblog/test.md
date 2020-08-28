@@ -1,7 +1,7 @@
 ---
 permalink: /techblog/
 categories: 
-  - Tech Blog
+  - SPMSM
 layout: single
 title: "Kimmi Kim"
 ---
