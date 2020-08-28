@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/cover_head.jpg
   
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  Learning and Working and Playing at the same time.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.1">Latest release v4.20.1</a></small>
 feature_row:
   - image_path: /assets/images/pic_tool.jpg
