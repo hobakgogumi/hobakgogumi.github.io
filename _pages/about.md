@@ -27,12 +27,17 @@ All constructive feedbacks or suggestions are therefore welcome. So please feel 
 Experience
 -------------
 > #### Work Experience
->Electromagnetic design and development of E-machines
->- Surface-mounted PMSM
->- Interior PMSM
->- Axial flux PMSM
->- Synchronous Reluctance Machine
->- Switched Reluctance Machine
+>
+> Electromagnetic design and development of E-machines
+>
+> - Surface-mounted PMSM
+> - Interior PMSM
+>
+> - Axial flux PMSM
+>
+> - Synchronous Reluctance Machine
+>
+> - Switched Reluctance Machine
 
 Education
 ---------
