@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Kimmi Kim"
+title: "Kimmi Kim"
 excerpt: "Test"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -13,5 +13,9 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2020-08-28T10:15:22-04:00
-toc: true
+toc: false
 ---
+
+About Me
+--------
+
