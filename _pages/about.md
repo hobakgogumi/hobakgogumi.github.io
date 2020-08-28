@@ -16,7 +16,7 @@ last_modified_at: 2020-08-28T10:15:22-04:00
 toc: false
 ---
 
-About Me
+`About Me`
 --------
 Hi there, I'm Kimmi.
 
@@ -27,7 +27,7 @@ So in order to make me happy and work and learn at the same time, I started with
 I will make technical notes to organize and manage the professional/technical knowledge and expertise.
 I hope this helps me and other students or colleagues!
 
-Experience
+`Experience`
 -------------
 #### Work Experience
 
@@ -38,12 +38,12 @@ Electromagnetic design and development of E-machines
 - Synchronous Reluctance Machine
 - Switched Reluctance Machine
 
-Education
+`Education`
 ---------
 #### RWTH Aachen University, Germany
 M.Sc. & B.Sc. Electrical Engineering, Information Technology and Computer Engineering
 
-More about me
+`More about me`
 -------------
 Alongside my interests in automotive engineering and programming, my other interests are
 - maintaining my happy marriage
