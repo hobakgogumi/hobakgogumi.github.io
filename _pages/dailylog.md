@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /dailylog/
 layout: single
+permalink: /dailylog/
+title: "Posts by Year"
 author_profile: true
 ---
