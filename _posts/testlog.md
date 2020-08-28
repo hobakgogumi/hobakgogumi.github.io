@@ -3,6 +3,7 @@ layout: archive
 permalink: /dailylog/
 title: "Layout: Post Date Enabled"
 show_date: true
+author_profile: true
 tags:
   - daily
 ---
