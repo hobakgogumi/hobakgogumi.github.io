@@ -18,7 +18,8 @@ toc: false
 
 About Me
 --------
-Hi there, I'm Kimmi.   
+Hi there, I'm Kimmi.
+
 I'm a development engineer for E-machines -mostly dealing with the electromagnetic design- for hybrid applications and electric vehicles.
 
 Besides my main job, I like programming. 
