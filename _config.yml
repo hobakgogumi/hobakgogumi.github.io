@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "HobakGogumi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<br/>Jolly Engineer<br/><br/> making green cars<br/><br/> living with an over-smart Poodle<br/><br/> and a cat-like Human<br/><br/> in Germany<br/><br/> "
+  bio              : "<br/>Jolly Engineer<br/><br/> making green cars<br/> living with an over-smart Poodle<br/> and a cat-like Human<br/><br/>"
   location         : "Germany"
   email            : ""
   links:
