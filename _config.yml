@@ -268,16 +268,13 @@ compress_html:
 
 # Collections
 collections:
-  dailylog:
+  TOOL:
     output: true
     permalink: /:collection/:path/
-  tool:
+  MOTOR:
     output: true
     permalink: /:collection/:path/
-  motor:
-    output: true
-    permalink: /:collection/:path/
-  automobile:
+  AUTOMOBILE:
     output: true
     permalink: /:collection/:path/
 
@@ -301,18 +298,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-   # _dailylog
-  - scope:
-      path: ""
-      type: dailylog
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: false
-      comments: true
-      sidebar:
-        nav: "dailylog"
   # _tool
   - scope:
       path: ""
