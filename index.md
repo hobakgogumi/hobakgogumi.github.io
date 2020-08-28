@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/pic_note.jpg
     title: "Thoughts & Notes"
     excerpt: "My personal notes not to forget things and to organize my unnecessary thoughts"
-    url: "/dailylogs/"
+    url: "/dailylog/"
     btn_class: "btn--primary"
     btn_label: "Read more"      
 ---
