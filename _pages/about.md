@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Kimmi"
+title: "About Kimmi Kim"
 excerpt: "Test"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
