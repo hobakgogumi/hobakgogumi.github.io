@@ -273,7 +273,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -284,11 +284,11 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
   # _foo
   - scope:
       path: ""
       type: foo
     values:
-      layout: splash
+      layout: single
