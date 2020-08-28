@@ -26,7 +26,7 @@ All constructive feedbacks or suggestions are therefore welcome. So please feel 
 
 Experience
 ----------
-# Work Experience
+#### Work Experience
 >	Electromagnetic design of...
 > + Switched Reluctance Machine for hybrid applications
 > + Surface-mounted PMSM for electric power steering for Asian major OEMS
