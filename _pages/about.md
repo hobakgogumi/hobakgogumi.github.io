@@ -19,7 +19,7 @@ toc: false
 About Me
 --------
 >Hi there, I'm Kimmi !   
->I'm a development engineer for E-machines for hybrid applications and electric vehicles.   
+>I'm a development engineer for E-machines for hybrid applications and electric vehicles.
 >
 >This blog is made for personal improvement, development and management of the expertise.   
 >All constructive feedbacks or suggestions are therefore welcome. So please feel free to contact me!
