@@ -1,4 +1,7 @@
 ---
+permalink: /techblog/
 layout: single
-title: "TEST"
+title: "Kimmi Kim"
 ---
+
+TEST
