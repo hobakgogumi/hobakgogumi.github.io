@@ -1,5 +1,5 @@
 ---
-permalink: /_techblog/
+permalink: /techblog/
 categories: 
   - Tech Blog
 layout: single
