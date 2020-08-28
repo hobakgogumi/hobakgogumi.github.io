@@ -18,7 +18,7 @@ toc: false
 
 About Me
 --------
-Hi there, I'm Kimmi !
+Hi there, I'm Kimmi !   
 I'm a development engineer for E-machines for hybrid applications and electric vehicles and currently work in one of the major OEM in Germany.   
    
 This blog is made for personal improvement, development and management of the expertise.   
