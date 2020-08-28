@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
 permalink: /dailylog/
-layout: posts
+layout: single
 author_profile: true
 ---
