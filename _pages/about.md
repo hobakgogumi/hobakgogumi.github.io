@@ -28,8 +28,8 @@ Experience
 ----------
 #### Work Experience
 >	Electromagnetic design of...
-> + Switched Reluctance Machine for hybrid applications
-> + Surface-mounted PMSM for electric power steering for Asian major OEMS
++ Switched Reluctance Machine for hybrid applications
++ Surface-mounted PMSM for electric power steering for Asian major OEMS
 
 
 
