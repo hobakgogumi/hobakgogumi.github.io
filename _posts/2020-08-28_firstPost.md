@@ -1,5 +1,4 @@
 ---
-permalink: /techblog/
 title: "Edge Case: Nested and Mixed Lists"
 categories:
   - Tech Bolg
