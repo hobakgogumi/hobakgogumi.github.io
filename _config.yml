@@ -268,13 +268,13 @@ compress_html:
 
 # Collections
 collections:
-  TOOL:
+  tool:
     output: true
     permalink: /:collection/:path/
-  MOTOR:
+  motor:
     output: true
     permalink: /:collection/:path/
-  AUTOMOBILE:
+  automobile:
     output: true
     permalink: /:collection/:path/
 
