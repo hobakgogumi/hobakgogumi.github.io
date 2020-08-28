@@ -20,16 +20,14 @@ About Me
 --------
 Hi there, I'm Kimmi !   
 I'm a development engineer for E-machines for hybrid applications and electric vehicles.   
-      
+   
 This blog is made for personal improvement, development and management of the expertise.   
 All constructive feedbacks or suggestions are therefore welcome. So please feel free to contact me!
 
 Experience
 ----------
-#### Work Experience
+> #### Work Experience
 >	Electromagnetic design of...
-+ Switched Reluctance Machine for hybrid applications
-+ Surface-mounted PMSM for electric power steering for Asian major OEMS
-
-
+> - Switched Reluctance Machine for hybrid applications
+> - Surface-mounted PMSM for electric power steering for Asian major OEMS
 
