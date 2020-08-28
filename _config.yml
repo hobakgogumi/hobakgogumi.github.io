@@ -20,7 +20,7 @@ title                    : "Gogumi's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HobakGogumi"
-description              : "Gogumi, the Engineer"
+description              : "Jolly *Engineer* in Germany"
 url                      : "https://hobakgogumi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "HobakGogumi"
+  name             : "Kimmi the HobakGogumi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Gogumi, the Engineer"
+  bio              : "Jolly *Engineer* in Germany"
   location         : "Germany"
   email            : ""
   links:
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
