@@ -145,6 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -320,6 +321,15 @@ defaults:
   - scope:
       path: ""
       type: automobile
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _dailylog
+  - scope:
+      path: ""
+      type: dailylog
     values:
       layout: single
       author_profile: true
