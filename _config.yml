@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kimmi Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<br/>Jolly **Engineer**<br/><br/> making green cars<br/> living with a *human-like* Poodle<br/> and a *cat-like* Human<br/><br/>"
   location         : "Germany"
   email            : ""
