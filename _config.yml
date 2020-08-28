@@ -144,7 +144,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - /_pages
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -197,7 +197,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  
 
 # Sass/SCSS
 sass:
@@ -266,11 +266,26 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  dailylog:
+    output: true
+    permalink: /:collection/:path/
+  tool:
+    output: true
+    permalink: /:collection/:path/
+  motor:
+    output: true
+    permalink: /:collection/:path/
+  automobile:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -286,9 +301,42 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _foo
+   # _dailylog
   - scope:
       path: ""
-      type: foo
+      type: dailylog
     values:
       layout: single
+      read_time: true
+      author_profile: true
+      share: false
+      comments: true
+      sidebar:
+        nav: "dailylog"
+  # _tool
+  - scope:
+      path: ""
+      type: tool
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _motor
+  - scope:
+      path: ""
+      type: motor
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _automobile
+  - scope:
+      path: ""
+      type: automobile
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
