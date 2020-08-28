@@ -2,7 +2,7 @@
 title: Pets
 layout: collection
 permalink: /motor/
-collection: motor
+collection: MOTOR
 entries_layout: grid
 classes: wide
 ---
