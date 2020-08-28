@@ -2,7 +2,7 @@
 title: Tool
 layout: collection
 permalink: /tool/
-collection: TOOL
+collection: tool
 entries_layout: grid
 classes: wide
 ---
