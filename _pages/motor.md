@@ -1,5 +1,5 @@
 ---
-title: Pets
+title: Motor
 layout: collection
 permalink: /motor/
 collection: motor
