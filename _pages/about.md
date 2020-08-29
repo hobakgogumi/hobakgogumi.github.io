@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
-
+---
 
 About Me
 --------
