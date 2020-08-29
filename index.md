@@ -23,7 +23,7 @@ feature_row:
     url: "/motor/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/pic_note.jpg
+  - image_path: /assets/images/pic_note.jpeg
     title: "Thoughts & Notes"
     excerpt: "My personal notes not to forget things and to organize my unnecessary thoughts"
     url: "/dailylog/"
