@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#FFFFFF"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/cover_head.JPG
+  #overlay_image: /assets/images/cover_head.JPG
 excerpt: "It’s what you do right now that makes a difference"
 intro: 
   - excerpt: 'This place is made for kicking my ass from the couch  
