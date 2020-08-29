@@ -11,7 +11,7 @@ excerpt: "It’s what you do right now that makes a difference"
 intro: 
   - excerpt: 'This place is made to get my ass off the couch and to do something productive & creative.' 
 feature_row:
-  - image_path: /assets/images/pic_tool.jpg
+  - image_path: /assets/images/pic_tool.jpeg
     title: "Process & Tool Development"
     excerpt: "Automatic tool development for analytical motor analysis"
     url: "/tool/"
