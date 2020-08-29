@@ -5,11 +5,11 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/cover_head.JPG
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "It’s what you do right now that makes a difference."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`' 
+  - excerpt: 'This place is made for kicking my ass from being a couch potatoe and to do something productive & creative.' 
 feature_row:
   - image_path: /assets/images/pic_tool.jpg
     title: "Process & Tool Development"
