@@ -17,7 +17,7 @@ feature_row:
     url: "/tool/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/pic_motor.jpg
+  - image_path: /assets/images/pic_motor.jpeg
     title: "Learning E-Machines"
     excerpt: "Everything related to E-machine... Theoretical, mathematical background and some practical experience"
     url: "/motor/"
