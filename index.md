@@ -9,7 +9,8 @@ header:
   overlay_image: /assets/images/cover_head.JPG
 excerpt: "It’s what you do right now that makes a difference"
 intro: 
-  - excerpt: 'This place is made for kicking my ass from the couch and to do something productive & creative.' 
+  - excerpt: 'This place is made for kicking my ass from the couch  
+  and to do something productive & creative.' 
 feature_row:
   - image_path: /assets/images/pic_tool.jpg
     title: "Process & Tool Development"
