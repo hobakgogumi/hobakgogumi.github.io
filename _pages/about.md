@@ -1,12 +1,8 @@
 ---
 permalink: /about/
 title: "Kimmi Kim"
-header:
-  overlay_color: #000
-  overlay_image: /assets/images/cover_head.jpg
 excerpt: "Test"
-    image_path: /assets/images/mm-layout-splash.png
-   
+    image_path: /assets/images/cover_head.jpg  
 last_modified_at: 2020-08-28T10:15:22-04:00
 toc: false
 ---
