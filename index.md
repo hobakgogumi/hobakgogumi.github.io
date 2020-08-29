@@ -4,7 +4,7 @@ ref: main
 permalink: /
 hidden: true
 header:
-  overlay_color: "#000"
+  overlay_color: "#FFC900"
   #overlay_filter: "0.4"
   #overlay_image: /assets/images/cover_head.JPG
 excerpt: "It’s what you do right now that makes a difference"
