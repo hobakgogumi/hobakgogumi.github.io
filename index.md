@@ -3,8 +3,8 @@ layout: splash
 ref: main
 permalink: /
 hidden: true
-#header:
-  #overlay_color: "#FFFFFF"
+header:
+  overlay_color: "#2C3F97"
   #overlay_filter: "0.4"
   #overlay_image: /assets/images/cover_head.JPG
 excerpt: "It’s what you do right now that makes a difference"
