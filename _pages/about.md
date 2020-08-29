@@ -1,7 +1,9 @@
 ---
 permalink: /about/
 title: "Kimmi Kim"
-image_overlay: /assets/images/cover_head.jpg
+header:
+  overlay_color: #000
+  overlay_image: /assets/images/cover_head.jpg
 excerpt: "Test"
     image_path: /assets/images/mm-layout-splash.png
    
